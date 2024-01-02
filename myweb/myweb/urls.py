@@ -22,3 +22,4 @@ urlpatterns = [
      path('admin/', admin.site.urls),
     # path('admin/', include('admin_adminlte.urls')),
 ]
+
